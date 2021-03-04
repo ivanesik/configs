@@ -11,6 +11,8 @@
     "editor.rulers": [
         {"column": 80}
     ],
+    // Additional '_' seperator
+    "editor.wordSeparators": "`~!@#$%^&*()-=+[{]}\\|;:'\",.<>/?_",
     "workbench.colorTheme": "Darcula", // extension
     "workbench.iconTheme": "vscode-icons", // extension
     "workbench.editor.wrapTabs": true,
