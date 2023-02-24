@@ -19,6 +19,8 @@
     "workbench.editor.decorations.colors": true,
     // "workbench.editor.tabSizing": "shrink", // Вместо переноса табов сокращает название в них, конфилктует с "workbench.editor.wrapTabs"
     "workbench.editor.enablePreviewFromCodeNavigation": true,
+    
+    "redhat.telemetry.enabled": false,
 
     // Code Style
     "typescript.preferences.quoteStyle": "single",
